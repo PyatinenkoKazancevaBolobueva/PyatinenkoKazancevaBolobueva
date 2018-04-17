@@ -1,3 +1,3 @@
 # PyatinenkoKazancevaBolobueva
-https://github.com/PyatinenkoKazancevaBolobueva/PyatinenkoKazancevaBolobueva.git
 https://PyatinenkoKazancevaBolobueva/PyatinenkoKazancevaBolobueva.github.io
+
